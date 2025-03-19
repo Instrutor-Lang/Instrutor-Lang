@@ -1,42 +1,122 @@
-# 👨‍💻 Estevão Gabriel Oliveira  
-**🚀 Desenvolvedor | 👨‍🏫 Instrutor de Programação | 💡 Criador de Projetos Educacionais**  
+Código da Transformação - Python 🚀🐍
+Bem-vindo(a) ao repositório oficial do curso Código da Transformação! Este curso é uma jornada completa para dominar a programação em Python, desde os conceitos básicos até o desenvolvimento de APIs e aplicações web robustas.
+Aqui, você encontrará projetos e exemplos de código de cada módulo, criados para ajudar você a praticar e consolidar seu aprendizado.
 
-Olá! 👋 Sou o **Estevão Gabriel Oliveira**, um apaixonado por tecnologia e educação! 💻✨  
-Atuo como **instrutor de programação** em diversas áreas, ajudando alunos a dominarem desde os fundamentos até tópicos avançados de desenvolvimento de software.  
+📚 Sobre o Curso
+O Código da Transformação foi projetado para transformar iniciantes em desenvolvedores Python capacitados, prontos para enfrentar desafios reais no mercado de trabalho.
+Com uma abordagem prática e mão na massa, o curso cobre:
 
-## 🚀 **Sobre mim**  
-✅ Instrutor de programação em **Python, HTML, CSS, JavaScript e Flask**  
-✅ Experiência com **Git e GitHub** para versionamento de código  
-✅ Foco em **desenvolvimento full stack** com projetos práticos  
-✅ Apaixonado por ensinar e motivar os alunos a explorarem o mundo da programação 🚀  
+✅ Fundamentos de Python → Sintaxe, lógica de programação, estruturas de dados e funções.
+✅ Desenvolvimento Web → Flask e Django para criar aplicações dinâmicas.
+✅ Banco de Dados → PostgreSQL para armazenamento e gerenciamento de dados.
+✅ APIs → Consumo e criação de APIs RESTful.
+✅ Boas Práticas → Git, GitHub, testes automatizados e metodologias ágeis.
 
-## 💡 **O que você vai encontrar aqui?**  
-👨‍🏫 **Repositórios educativos** com projetos e exemplos práticos  
-📂 **Materiais de apoio** para estudantes  
-🧪 **Exercícios e desafios** para você testar suas habilidades  
-🌐 **Projetos completos** para servir de referência  
+📂 Estrutura do Curso
+O curso está dividido em 15 módulos, cada um com foco em um tópico essencial:
 
-## 🌱 **Tecnologias que ensino e uso**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+Introdução ao Git, GitHub e Metodologias Ágeis
+Introdução ao Python
+Lógica de Programação com Python
+Estruturas de Dados
+Funções em Python
+Manipulação de Arquivos
+Módulos e Pacotes
+Programação Orientada a Objetos (POO)
+Tratamento de Erros
+Introdução às APIs
+Banco de Dados com PostgreSQL
+Testes Automatizados
+Desenvolvimento de APIs com Flask
+Introdução ao Django
+Projeto Final
+📁 O que você vai encontrar em cada módulo:
+✅ Códigos de exemplo → Para você entender os conceitos na prática.
+✅ Projetos → Desafios para consolidar o aprendizado.
+✅ Recursos adicionais → Links, artigos e dicas para aprofundar seus conhecimentos.
+🛠️ Tecnologias Utilizadas
+Tecnologia	Descrição
+Linguagem	Python 🐍
+Frameworks	Flask, Django
+Banco de Dados	PostgreSQL
+Ferramentas	Git, GitHub, VS Code, PyCharm
+Metodologias	Scrum, Kanban
+📥 Como Usar Este Repositório
+🚀 1. Clone o repositório:
+Abra o terminal e execute:
 
-## 🌟 **Vamos programar juntos!**  
-Se você quer aprender programação de forma prática e descomplicada, você está no lugar certo!  
-➡️ Me siga aqui no GitHub para acompanhar os projetos e não perder nenhuma atualização! 😉  
+bash
+Copy
+Edit
+git clone https://github.com/Instrutor-Lang/codigo-da-transformacao.git
+📂 2. Navegue pelos módulos:
+Cada módulo possui uma pasta com exemplos de código, projetos e recursos.
 
----
+bash
+Copy
+Edit
+cd codigo-da-transformacao
+🔥 3. Siga as instruções:
+Leia os arquivos README.md dentro de cada módulo para guias detalhados.
+Execute os códigos de exemplo.
+Resolva os projetos propostos.
+Contribua com melhorias ou sugestões!
+📝 Pré-requisitos
+Para aproveitar ao máximo este curso, é recomendável:
+✅ Conhecimento básico de lógica de programação.
+✅ Computador com Python 3.x instalado.
+✅ Familiaridade com linha de comando (terminal).
 
-📫 **Entre em contato:**  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estevao.oliveira@vocaco.org.br)  
+🛠️ Instalação
+Instale o Python:
+Baixe e instale o Python em python.org.
 
----
+Configure o ambiente virtual:
+bash
+Copy
+Edit
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate  # Windows
+Instale as dependências:
+Dentro de cada módulo, você encontrará um arquivo requirements.txt com as dependências necessárias. Para instalar:
 
-🔥 **Bora codar?** 😎🚀  
+bash
+Copy
+Edit
+pip install -r requirements.txt
+🤝 Contribuição
+Contribuições são bem-vindas! Se você quiser melhorar este curso ou adicionar novos conteúdos, siga estas etapas:
 
----
+Faça um fork do repositório.
+Crie uma branch para sua feature:
+bash
+Copy
+Edit
+git checkout -b minha-feature
+Faça commit das suas alterações:
+bash
+Copy
+Edit
+git commit -m "Adicionando nova feature"
+Envie para o repositório remoto:
+bash
+Copy
+Edit
+git push origin minha-feature
+Abra um Pull Request e descreva suas alterações.
+📜 Licença
+Este projeto está licenciado sob a licença MIT.
+Veja o arquivo LICENSE para mais detalhes.
 
+📞 Contato
+Se você tiver dúvidas, sugestões ou quiser compartilhar seu progresso, sinta-se à vontade para entrar em contato:
+
+📧 Email: estevao.oliveira@vocacao.org.br
+💻 GitHub: @Instrutor-Lang
+
+🌟 Agradecimentos
+Agradeço a todos os alunos e colaboradores que tornaram este curso possível.
+Juntos, estamos transformando vidas através da programação! 💻✨
+
+🚀 Transforme seu futuro com código! 🐍
